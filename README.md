@@ -1,5 +1,4 @@
-rrmckinley
+Rich McKinley
 ==========
 
-Rich McKinley
-https://github.com/rrmckinley/rrmckinley/wiki/Rich-McKinley
+[About Rich McKinley](https://github.com/rrmckinley/rrmckinley/wiki/Rich-McKinley)
