@@ -67,3 +67,8 @@ At RatedAgent.com I directed all software engineering and IT efforts to build a 
   * Microsoft SQL Server
 ##### Platforms and Specialization
   * ASP.NET
+
+## Education
+### Computer Science
+### Utah Valley University, National University
+Senior project on graph storage and materialized paths in relational database systems
