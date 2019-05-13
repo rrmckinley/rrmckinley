@@ -48,6 +48,7 @@ At Tagged I managed engineers and wrote software for data science, analytics, an
   * HBase
   * LevelDB
 ##### Specialization
+  * Apache Spark
   * Data science and analytics
   * Engineering management
   * Open source project management
