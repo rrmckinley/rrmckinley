@@ -5,9 +5,12 @@
 
 ## Work Experience
 
-### Reddit
+### Reddit, Inc
 #### 2014 to Present
 #### Software Engineering
+
+For over five years I've been writing software for key features and services at Reddit. During that time Reddit has grown from 120M to over 330M monthly active users.
+
 ##### Programming Languages
   * Python
   * TypeScript
@@ -18,15 +21,20 @@
   * PostgreSQL
   * MySQL
 ##### Platforms and Specialization
+  * GraphQL
   * React JS
   * Amazon Web Services, Google Cloud Platform
   * Memcached, Redis
   * Kubernetes, Docker, Containerd, LDX
+  * Thrift
   * Django, ORM
 
-### Tagged
+### Tagged, Inc
 #### 2011 to 2014
 #### Software Engineering
+
+At Tagged I managed engineers and wrote software for data science, analytics, and machine learning systems to power data-driven decisions. I applied big data principles to analyze a dataset growing at a rate of over 1.5TB a day
+
 ##### Programming Languages
   * Java, Scala, Kotlin
   * Haskell
@@ -48,6 +56,9 @@
 #### 2006 to 2011
 #### Director of IT
 #### Software Engineering
+
+At RatedAgent.com I directed all software engineering and IT efforts to build a platform for trusted consumer reviews in the the real estate industry.
+
   * C#
   * Java
   * JavaScript
