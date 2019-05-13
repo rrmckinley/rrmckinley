@@ -23,7 +23,7 @@ For over five years I've been writing software for key features and services at 
 ##### Platforms and Specialization
   * GraphQL
   * React JS
-  * Amazon Web Services, Google Cloud Platform
+  * Amazon Web Services (AWS), Google Cloud Platform
   * Memcached, Redis
   * Kubernetes, Docker, Containerd, LDX
   * Thrift
