@@ -31,7 +31,7 @@ For over five years I've been writing software for key features and services at 
 
 ### Tagged, Inc
 #### 2011 to 2014
-#### Software Engineering
+#### Software Engineering Manager
 
 At Tagged I managed engineers and wrote software for data science, analytics, and machine learning systems to power data-driven decisions. I applied big data principles to analyze a dataset growing at a rate of over 1.5TB a day
 
