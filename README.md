@@ -1,4 +1,4 @@
-# Rich McKinley– Software Engineering
+# Rich McKinley– Software Engineer
 ##### San Francisco, CA
 ##### phone: +1-415-706-4834
 ##### email: mckinley1411@gmail.com
@@ -8,7 +8,6 @@
 
 ### H-Protocol
 #### 2021 to Present
-#### Software Engineering
 
 Decentralized contract development
 
@@ -18,7 +17,7 @@ Decentralized contract development
 
 ### Graftable
 #### 2019 to Present
-#### Software Engineering
+#### Software Engineer
 
 Development of a low-code framework for GraphQL integrations
 
@@ -29,7 +28,6 @@ Development of a low-code framework for GraphQL integrations
 
 ### Reddit, Inc
 #### 2014 to 2019
-#### Software Engineering
 
 For over five years I've been writing software for key features and services at Reddit. During that time Reddit has grown from 120M to over 330M monthly active users.
 
@@ -53,7 +51,6 @@ For over five years I've been writing software for key features and services at 
 
 ### Tagged, Inc
 #### 2011 to 2014
-#### Software Engineering Manager
 
 At Tagged I managed engineers and wrote software for data science, analytics, and machine learning systems to power data-driven decisions. I applied big data principles to analyze a dataset growing at a rate of over 1.5TB a day
 
@@ -77,8 +74,6 @@ At Tagged I managed engineers and wrote software for data science, analytics, an
 
 ### RatedAgent.com
 #### 2006 to 2011
-#### Director of IT
-#### Software Engineering
 
 At RatedAgent.com I directed all software engineering and IT efforts to build a platform for trusted consumer reviews in the the real estate industry.
 
