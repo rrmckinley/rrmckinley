@@ -5,8 +5,30 @@
 
 ## Work Experience
 
+
+### H Protocol
+#### 2021 to Present
+#### Software Engineering
+
+Decentralized contract development
+
+##### Stack
+  * NextJS with TypeScript
+  * Ethers
+
+### Graftable
+#### 2019 to Present
+#### Software Engineering
+
+Development of a low-code framework for GraphQL integrations
+
+##### Stack
+  * NextJS with TypeScript
+  * GraphQL strongly typed reusable query components
+  * PostgreSQL
+
 ### Reddit, Inc
-#### 2014 to Present
+#### 2014 to 2019
 #### Software Engineering
 
 For over five years I've been writing software for key features and services at Reddit. During that time Reddit has grown from 120M to over 330M monthly active users.
