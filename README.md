@@ -21,8 +21,9 @@ Development of low-code framework for GraphQL integrations. Decentralized contra
   * PostgreSQL
   * SQLite
   * Ethers
-___
 
+
+_____
 
 
 ### LeMond
@@ -36,8 +37,9 @@ Development of ecommerce system for carbon fiber bicycles
   * NextJS
   * GraphQL
   * PostgreSQL
-___
 
+
+_____
 
 
 ### Reddit, Inc
@@ -63,8 +65,9 @@ For over five years I worked on key features and services at Reddit. During that
   * Kubernetes, Docker, Containerd, LDX
   * Thrift
   * Django
-___
 
+
+_____
 
 
 ### if(we)
@@ -89,8 +92,9 @@ At Tagged I managed engineers and wrote software for data science, analytics, an
   * Data science and analytics
   * Engineering management
   * Open source project management
-___
 
+
+_____
 
 
 ### RatedAgent
@@ -106,8 +110,9 @@ At RatedAgent I directed all software engineering and IT efforts to build a plat
   * Microsoft SQL Server
 ##### Platforms and Specialization
   * ASP.NET
-___
 
+
+_____
 
 
 ### Education
