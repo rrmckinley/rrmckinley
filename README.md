@@ -1,40 +1,55 @@
-# Rich McKinley– Software Engineer
-##### San Francisco, CA
+# Richard McKinley
+## Software Engineer
+##### San Diego, CA
 ##### phone: +1-415-706-4834
 ##### email: mckinley1411@gmail.com
 
 ## Work Experience
 
 
-### H-Protocol
-#### 2021 to Present
 
-Decentralized contract development
+
+### Stealth Mode Startup
+#### Sep 2021 to Present
+
+Development of low-code framework for GraphQL integrations. Decentralized contract development
 
 ##### Stack
-  * NextJS with TypeScript
+  * TypeScript
+  * NextJS
+  * GraphQL
+  * PostgreSQL
+  * SQLite
   * Ethers
 
-### Graftable
-#### 2019 to Present
-#### Software Engineer
 
-Development of a low-code framework for GraphQL integrations
+
+
+### LeMond
+#### Aug 2020 to Sep 2021
+
+Development of ecommerce system for carbon fiber bicycles
 
 ##### Stack
-  * NextJS with TypeScript
-  * GraphQL strongly typed reusable query components
+  * Stripe
+  * TypeScript
+  * NextJS
+  * GraphQL
   * PostgreSQL
 
-### Reddit, Inc
-#### 2014 to 2019
 
-For over five years I've been writing software for key features and services at Reddit. During that time Reddit has grown from 120M to over 330M monthly active users.
+
+
+### Reddit, Inc
+#### Apr 2014 to Jun 2019
+
+For over five years I worked on key features and services at Reddit. During that time Reddit grew from 120M to over 330M monthly active users.
 
 ##### Programming Languages
   * Python
   * TypeScript
   * JavaScript
+  * Java
   * SQL
 ##### Databases
   * Cassandra
@@ -42,15 +57,18 @@ For over five years I've been writing software for key features and services at 
   * MySQL
 ##### Platforms and Specialization
   * GraphQL
-  * React JS
-  * Amazon Web Services (AWS), Google Cloud Platform
+  * React
+  * Amazon Web Services, Google Cloud Platform
   * Memcached, Redis
   * Kubernetes, Docker, Containerd, LDX
   * Thrift
-  * Django, ORM
+  * Django
 
-### Tagged, Inc
-#### 2011 to 2014
+
+
+
+### if(we)
+#### Nov 2011 to Apr 2014
 
 At Tagged I managed engineers and wrote software for data science, analytics, and machine learning systems to power data-driven decisions. I applied big data principles to analyze a dataset growing at a rate of over 1.5TB a day
 
@@ -72,10 +90,13 @@ At Tagged I managed engineers and wrote software for data science, analytics, an
   * Engineering management
   * Open source project management
 
-### RatedAgent.com
+
+
+
+### RatedAgent
 #### 2006 to 2011
 
-At RatedAgent.com I directed all software engineering and IT efforts to build a platform for trusted consumer reviews in the the real estate industry.
+At RatedAgent I directed all software engineering and IT efforts to build a platform for trusted consumer reviews in the the real estate industry.
 
   * C#
   * Java
@@ -85,6 +106,9 @@ At RatedAgent.com I directed all software engineering and IT efforts to build a 
   * Microsoft SQL Server
 ##### Platforms and Specialization
   * ASP.NET
+
+
+
 
 ## Education
 ### Computer Science
