@@ -21,7 +21,7 @@ Development of low-code framework for GraphQL integrations. Decentralized contra
   * PostgreSQL
   * SQLite
   * Ethers
-
+___
 
 
 
@@ -36,7 +36,7 @@ Development of ecommerce system for carbon fiber bicycles
   * NextJS
   * GraphQL
   * PostgreSQL
-
+___
 
 
 
@@ -63,7 +63,7 @@ For over five years I worked on key features and services at Reddit. During that
   * Kubernetes, Docker, Containerd, LDX
   * Thrift
   * Django
-
+___
 
 
 
@@ -89,12 +89,12 @@ At Tagged I managed engineers and wrote software for data science, analytics, an
   * Data science and analytics
   * Engineering management
   * Open source project management
-
+___
 
 
 
 ### RatedAgent
-#### 2006 to 2011
+#### Aug 2006 to Nov 2011
 
 At RatedAgent I directed all software engineering and IT efforts to build a platform for trusted consumer reviews in the the real estate industry.
 
@@ -106,11 +106,11 @@ At RatedAgent I directed all software engineering and IT efforts to build a plat
   * Microsoft SQL Server
 ##### Platforms and Specialization
   * ASP.NET
+___
 
 
 
-
-## Education
-### Computer Science
-### Utah Valley University, National University
+### Education
+#### Utah Valley University
+#### National University
 Senior project on graph storage and materialized paths in relational database systems
