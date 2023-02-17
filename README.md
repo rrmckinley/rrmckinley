@@ -1,7 +1,6 @@
 # Richard McKinley
 ## Software Engineer
 ##### San Diego, CA
-##### phone: +1-415-706-4834
 ##### email: mckinley1411@gmail.com
 
 ## Work Experience
