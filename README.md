@@ -72,7 +72,7 @@ _____
 ### if(we)
 #### Nov 2011 to Apr 2014
 
-At Tagged I managed engineers and wrote software for data science, analytics, and machine learning systems to power data-driven decisions. I applied big data principles to analyze a dataset growing at a rate of over 1.5TB a day
+At if(we) (previously named Tagged) I managed engineers and wrote software for data science, analytics, and machine learning systems to power data-driven decisions. I applied big data principles to analyze a dataset growing at a rate of over 1.5TB a day
 
 ##### Programming Languages
   * Java, Scala, Kotlin
